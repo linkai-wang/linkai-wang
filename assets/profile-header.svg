@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Linkai Wang — Computer Science Student</title><desc id="desc">Creative tools, thoughtful software, and an interest in AI agents.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#192d48"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#66809c" stroke-opacity=".09"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="56" y="49" width="4" height="202" rx="2" fill="#69deca"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="84" y="81" font-size="15" letter-spacing="3" fill="#69deca">LEARN · BUILD · REFINE</text>
+<text x="80" y="148" font-size="52" font-weight="700" fill="#f0f6fc">Linkai Wang</text>
+<text x="84" y="191" font-size="21" fill="#c3d3e5">Computer Science Student</text>
+<text x="84" y="229" font-size="17" fill="#9fb4ca">Creative tools · Educational software · AI agents</text></g>
+<g fill="none" stroke="#69deca"><circle cx="973" cy="150" r="91" stroke-opacity=".16"/><circle cx="973" cy="150" r="61" stroke-opacity=".18"/><path d="M911 100L1035 115L982 217Z" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="911" cy="100" r="12" fill="#192d48" stroke-width="3"/><circle cx="1035" cy="115" r="9" fill="#69deca"/><circle cx="982" cy="217" r="12" fill="#192d48" stroke-width="3"/></g></svg>
