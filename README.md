@@ -21,14 +21,11 @@ I'm a Computer Science undergraduate at Wenzhou-Kean University. I enjoy turning
 
 My current interests are **AI agents, agent memory, and human-centered educational tools**. I'm developing my research skills through paper reading and hands-on experiments.
 
-### Research update · MemRL Study
+### Learning project · MemRL Study
 
-A small-scale adaptation and frozen evaluation of MemRL with **DeepSeek-flash + BGE-M3** on HARP/AIME and ALFWorld.
+On the recommendation of Waqar Ali at WKU, I started studying how memory can help AI agents. I tried GSM8K, HARP/AIME, and ALFWorld, learning about task difficulty, fair comparisons, and the limits of small experiments.
 
-- **Work:** provider adaptation, compact memory, paired evaluation, and reproducible analysis.
-- **Observation:** fewer ALFWorld decisions in one run; no success-rate advantage over similarity-only retrieval.
-
-[Read the stage report →](https://github.com/wanglinkai705-hash/memrl-study)
+[Read my progress and results →](https://github.com/wanglinkai705-hash/memrl-study)
 
 ### Featured project · Creative Drawing App
 
