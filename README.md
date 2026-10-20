@@ -23,7 +23,7 @@ My current interests are **AI agents, agent memory, and human-centered education
 
 ### Learning project · MemRL Study
 
-On the recommendation of Waqar Ali at WKU, I started studying how memory can help AI agents. I tried GSM8K, HARP/AIME, and ALFWorld, learning about task difficulty, fair comparisons, and the limits of small experiments.
+On the recommendation of Waqar Ali, Associate Professor in CSMT at WKU, I started studying how memory can help AI agents. I tried GSM8K, HARP/AIME, and ALFWorld, learning about task difficulty, fair comparisons, and the limits of small experiments.
 
 [Read my progress and results →](https://github.com/wanglinkai705-hash/memrl-study)
 
