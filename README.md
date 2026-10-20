@@ -8,7 +8,8 @@
 
 Building useful software and learning how intelligent agents work.
 
-[![Explore my project](https://img.shields.io/badge/Explore_my_project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanglinkai705-hash/creative-drawing-app)
+[![Explore my project](https://img.shields.io/badge/Creative_Drawing_App-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanglinkai705-hash/creative-drawing-app)
+[![MemRL Study](https://img.shields.io/badge/MemRL_Study-18857A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanglinkai705-hash/memrl-study)
 
 </div>
 
@@ -19,6 +20,15 @@ Building useful software and learning how intelligent agents work.
 I'm a Computer Science undergraduate at Wenzhou-Kean University. I enjoy turning practical needs into software and improving it through feedback.
 
 My current interests are **AI agents, agent memory, and human-centered educational tools**. I'm developing my research skills through paper reading and hands-on experiments.
+
+### Research update · MemRL Study
+
+A small-scale adaptation and frozen evaluation of MemRL with **DeepSeek-flash + BGE-M3** on HARP/AIME and ALFWorld.
+
+- **Work:** provider adaptation, compact memory, paired evaluation, and reproducible analysis.
+- **Observation:** fewer ALFWorld decisions in one run; no success-rate advantage over similarity-only retrieval.
+
+[Read the stage report →](https://github.com/wanglinkai705-hash/memrl-study)
 
 ### Featured project · Creative Drawing App
 
