@@ -8,8 +8,8 @@
 
 Building useful software and learning how intelligent agents work.
 
-[![Explore my project](https://img.shields.io/badge/Creative_Drawing_App-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanglinkai705-hash/creative-drawing-app)
-[![MemRL Study](https://img.shields.io/badge/MemRL_Study-18857A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanglinkai705-hash/memrl-study)
+[![Explore my project](https://img.shields.io/badge/Creative_Drawing_App-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linkai-wang/creative-drawing-app)
+[![MemRL Study](https://img.shields.io/badge/MemRL_Study-18857A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linkai-wang/memrl-study)
 
 </div>
 
@@ -25,7 +25,7 @@ My current interests are **AI agents, agent memory, and human-centered education
 
 With the recommendation and support of Waqar Ali, Associate Professor in CSMT at WKU, I started studying how memory can help AI agents. I tried GSM8K, HARP/AIME, and ALFWorld, learning about task difficulty, fair comparisons, and the limits of small experiments.
 
-[Read my progress and results →](https://github.com/wanglinkai705-hash/memrl-study)
+[Read my progress and results →](https://github.com/linkai-wang/memrl-study)
 
 ### Featured project · Creative Drawing App
 
@@ -38,7 +38,7 @@ An interactive drawing and teaching-aid prototype developed by a student team, i
 
 **Built with:** JavaScript · HTML Canvas · CSS · Tailwind CSS · Node.js
 
-[Explore the code →](https://github.com/wanglinkai705-hash/creative-drawing-app) · [Read the project updates →](https://github.com/wanglinkai705-hash/creative-drawing-app/blob/main/CHANGELOG.md)
+[Explore the code →](https://github.com/linkai-wang/creative-drawing-app) · [Read the project updates →](https://github.com/linkai-wang/creative-drawing-app/blob/main/CHANGELOG.md)
 
 <sub>Educational support prototype. The optional story backend requires deployment and configuration; a tool-using teaching agent is a future direction.</sub>
 
